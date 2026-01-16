@@ -1,6 +1,6 @@
-# 技术支持 - 还好么
+# 技术支持 - 还好么are u ok
 
-欢迎使用**还好么**！如果您在使用过程中遇到任何问题，请参考以下常见问题或联系我们。
+欢迎使用**还好么are u ok**！如果您在使用过程中遇到任何问题，请参考以下常见问题或联系我们。
 
 ---
 
@@ -68,7 +68,7 @@
 
 ## 联系我们
 
-- **GitHub 文档**：https://github.com/Xnan-cmd/alright-app-docs
+- **GitHub 文档**：https://github.com/Xnan-cmd/areyouok-docs
 - **邮箱**：guangwnan@gmail.com
 - **隐私政策**：[查看隐私政策](PRIVACY_POLICY.md)
 

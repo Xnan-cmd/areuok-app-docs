@@ -6,7 +6,7 @@
 
 ## 应用介绍
 
-**还好么** 是一款温暖的每日签到应用。每天点一下光球，告诉爱你的人你还在。如果超过 48 小时没有签到，我们会通知你信任的联系人。
+**还好么are u ok** 是一款温暖的每日签到应用。每天点一下光球，告诉爱你的人你还在。如果超过 48 小时没有签到，我们会通知你信任的联系人。
 
 ### 核心特点
 
@@ -54,7 +54,7 @@
 如有问题，请查看[技术支持文档](SUPPORT.md)或通过以下方式联系我们：
 
 - **邮箱**：guangwnan@gmail.com
-- **GitHub Issues**：https://github.com/Xnan-cmd/alright-app-docs/issues
+- **GitHub Issues**：https://github.com/Xnan-cmd/areyouok-docs/issues
 
 ---
 
