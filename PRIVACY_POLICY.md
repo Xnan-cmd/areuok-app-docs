@@ -90,7 +90,7 @@
 
 如果您对本隐私政策有任何疑问或建议，请通过以下方式联系我们：
 
-- **技术支持**：https://github.com/Xnan-cmd/areyouok-docs
+- **技术支持**：https://github.com/Xnan-cmd/areuok-app-docs
 - **邮箱**：guangwnan@gmail.com
 
 ---

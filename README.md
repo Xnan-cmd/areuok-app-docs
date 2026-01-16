@@ -54,7 +54,7 @@
 如有问题，请查看[技术支持文档](SUPPORT.md)或通过以下方式联系我们：
 
 - **邮箱**：guangwnan@gmail.com
-- **GitHub Issues**：https://github.com/Xnan-cmd/areyouok-docs/issues
+- **GitHub Issues**：https://github.com/Xnan-cmd/areuok-app-docs/issues
 
 ---
 
