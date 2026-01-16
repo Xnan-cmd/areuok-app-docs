@@ -1,4 +1,4 @@
-# 还好么 - App Store 文档
+# 还好么are u ok - App Store 文档
 
 > 一个温暖的签到应用，每天告诉家人你还好
 
