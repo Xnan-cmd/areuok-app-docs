@@ -45,7 +45,7 @@
 
 ## 下载
 
-**App Store**：[下载还好么](https://apps.apple.com/cn/app/id你的AppID)
+**App Store**：[下载还好么are u ok](https://apps.apple.com/cn/app/id你的AppID)
 
 ---
 
